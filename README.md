@@ -1,5 +1,43 @@
-# networkwalks-BO84H-footprinting
+<img width="960" height="448" alt="whois3" src="https://github.com/user-attachments/assets/6c799a86-c13c-453a-b036-a26e199314c9" /># networkwalks-BO84H-footprinting
 This is my cyber security foot printing with kali linux, google hacking database, downloading and installation of Maltego graph software and its lab setup, foot printing with Maltego, downloading and installation of Zenmap with its lab setup and foot printing
+
+FOOT PRINTING WITH MULTIPLE KALI TOOLS AND COMMANDS
+DOMAIN REGISTRATION DETAILS
+Open kali linux, go to terminal and run this $ whois networkwalks.com
+
+<img width="960" height="455" alt="whois1" src="https://github.com/user-attachments/assets/01baa7f7-4665-4b26-8b19-21717296907c" />
+
+<img width="959" height="454" alt="whois2" src="https://github.com/user-attachments/assets/6609ed6b-7c11-4c03-b942-2e7a7b749aae" />
+
+<img width="960" height="448" alt="whois3" src="https://github.com/user-attachments/assets/2202baff-0657-4c78-b5c1-f8ae038cfc9f" />
+
+FINGER PRINT THE WEB TECHNOLOGIES
+Open kali linux, go to terminal and run this $ whatweb networkwalks.com
+
+<img width="960" height="101" alt="whatweb" src="https://github.com/user-attachments/assets/8c331ce9-3c87-41e0-8c62-ad386de48b07" />
+
+RESOLVING DOMAIN NAME TO ITS IP ADDRESS
+Open kali linux, go to terminal and run this $ nslookup networkwalks.com
+
+<img width="680" height="443" alt="nslookup" src="https://github.com/user-attachments/assets/78265f2c-e0e6-48b5-af76-52e77dbf00c1" />
+
+HTTP RESPONSE HEADERS
+Open kali linux, go to terminal and run this $ curl -I https://networkwalks.com
+
+<img width="959" height="447" alt="CURL" src="https://github.com/user-attachments/assets/5fcb95f5-bf23-447c-a27e-a3b90fae4a67" />
+
+WEB APPLICATION FIREWALL
+Open kali linux, go to terminal and run this $ wafw00f networkwalks.com
+
+<img width="959" height="454" alt="wafwoof" src="https://github.com/user-attachments/assets/753584d6-1794-4d23-b828-15a2ab67e90e" />
+
+DNS RECORDS
+Open kali linux, go to terminal and run this $ dnsrecon -d networkwalks.com
+
+
+
+
+
 
 GOOGLE HACKING DATABASE
 Google is not only a search engine but it is also a biggest database of information used in cyber security testing

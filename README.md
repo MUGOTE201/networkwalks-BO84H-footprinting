@@ -3,7 +3,7 @@ This is my cyber security foot printing with kali linux, google hacking database
 
 FOOT PRINTING WITH MULTIPLE KALI TOOLS AND COMMANDS
 DOMAIN REGISTRATION DETAILS
-Open kali linux, go to terminal and run this $ whois networkwalks.com
+Open kali linux, go to terminal and run this command $ whois networkwalks.com
 
 <img width="960" height="455" alt="whois1" src="https://github.com/user-attachments/assets/01baa7f7-4665-4b26-8b19-21717296907c" />
 
@@ -12,32 +12,29 @@ Open kali linux, go to terminal and run this $ whois networkwalks.com
 <img width="960" height="448" alt="whois3" src="https://github.com/user-attachments/assets/2202baff-0657-4c78-b5c1-f8ae038cfc9f" />
 
 FINGER PRINT THE WEB TECHNOLOGIES
-Open kali linux, go to terminal and run this $ whatweb networkwalks.com
+Open kali linux, go to terminal and run this command $ whatweb networkwalks.com
 
 <img width="960" height="101" alt="whatweb" src="https://github.com/user-attachments/assets/8c331ce9-3c87-41e0-8c62-ad386de48b07" />
 
 RESOLVING DOMAIN NAME TO ITS IP ADDRESS
-Open kali linux, go to terminal and run this $ nslookup networkwalks.com
+Open kali linux, go to terminal and run this command $ nslookup networkwalks.com
 
 <img width="680" height="443" alt="nslookup" src="https://github.com/user-attachments/assets/78265f2c-e0e6-48b5-af76-52e77dbf00c1" />
 
 HTTP RESPONSE HEADERS
-Open kali linux, go to terminal and run this $ curl -I https://networkwalks.com
+Open kali linux, go to terminal and run this command $ curl -I https://networkwalks.com
 
 <img width="959" height="447" alt="CURL" src="https://github.com/user-attachments/assets/5fcb95f5-bf23-447c-a27e-a3b90fae4a67" />
 
 WEB APPLICATION FIREWALL
-Open kali linux, go to terminal and run this $ wafw00f networkwalks.com
+Open kali linux, go to terminal and run this command $ wafw00f networkwalks.com
 
 <img width="959" height="454" alt="wafwoof" src="https://github.com/user-attachments/assets/753584d6-1794-4d23-b828-15a2ab67e90e" />
 
 DNS RECORDS
-Open kali linux, go to terminal and run this $ dnsrecon -d networkwalks.com
+Open kali linux, go to terminal and run this command $ dnsrecon -d networkwalks.com
 
-
-
-
-
+<img width="1600" height="683" alt="dns" src="https://github.com/user-attachments/assets/4ab87bf8-54a2-4c79-814e-7e1dcd88143a" />
 
 GOOGLE HACKING DATABASE
 Google is not only a search engine but it is also a biggest database of information used in cyber security testing
@@ -112,6 +109,12 @@ DOWNLOADING, INSTALLING AND SETTING UP ZENMAP LAB FOR FOOT PRINTING
 <img width="993" height="850" alt="Screenshot 2026-11-10 145316" src="https://github.com/user-attachments/assets/0c7bb197-f5e4-4b64-9631-8c8019e35413" />
 
 <img width="769" height="338" alt="Screenshot 2026-11-10 145917" src="https://github.com/user-attachments/assets/239340c3-2036-4589-abd2-f470c5c2a237" />
+
+CREATING A PDF IN ZENMAP AFTER CONDUCTING SCAN ON IP ADDRESS
+Open zenmap and scan the ip address
+Go and click on topology, click on save graphics, name your pdf you want to create, select the type file as pdf, then click on save
+
+<img width="1586" height="511" alt="image" src="https://github.com/user-attachments/assets/e7345587-1e7e-41ae-9318-dbbded7aeca1" />
 
 An intensescan on "scanme.nmap.org" with zenmap
 
